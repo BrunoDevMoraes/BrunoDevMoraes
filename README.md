@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **JavaScript, NodeJS**
+- 💻 I'm currently working at **Anfiko**
+
+- 💬 Ask me about **ReactJs, NodeJS**
 
 - 📫 How to reach me **brunodevmoraes@gmail.com**
 
