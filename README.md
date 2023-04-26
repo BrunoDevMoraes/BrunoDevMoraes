@@ -8,7 +8,7 @@
 
 - 💻 I'm currently working at **Anfiko**
 
-- 💬 Ask me about **NextJs, NodeJS**
+- 💬 Ask me about **NextJS, NodeJS**
 
 - 📫 How to reach me **brunodevmoraes@gmail.com**
 
