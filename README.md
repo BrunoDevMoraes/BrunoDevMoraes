@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **brunodevmoraes@gmail.com**
 
-- 📄 Know about my experiences https://shorturl.at/JLV28
+<!-- - 📄 Know about my experiences https://shorturl.at/JLV28 -->
 
 - ⚡ Fun fact **I love pets**
 
