@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 💻 I'm currently working at **Anfiko**
+[comment]: <> (- 💻 I'm currently working at )
 
 - 💬 Ask me about **NextJS, NodeJS**
 
